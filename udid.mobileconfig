@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>http://www.example.com/udid.php</string>
+            <string>https://ryony.github.io/udid/udid.php</string>
             <key>DeviceAttributes</key>
             <array>
                 <string>UDID</string>
